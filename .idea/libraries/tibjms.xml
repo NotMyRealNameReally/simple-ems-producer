@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tibjms">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../tibco/ems/8.3/lib/tibjms.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

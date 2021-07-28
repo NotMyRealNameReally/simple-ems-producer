@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jms-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../tibco/ems/8.3/lib/jms-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
